@@ -1,0 +1,4 @@
+input/
+checkpoint/
+__pycache__/
+spark-warehouse/
